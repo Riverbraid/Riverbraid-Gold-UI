@@ -1,4 +1,4 @@
-﻿import { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { evaluateState } from './services/bridge'
 import { TshOutput, StateSeal } from './types/riverbraid'
 
@@ -53,7 +53,7 @@ function App() {
             >
               COMMIT TO BRAID
             </button>
-            {currentError && <p style={{ color: '#F44336', fontSize: '0.8rem', marginTop: '10px' }}>⚠️ {currentError}</p>}
+            {currentError && <p style={{ color: '#F44336', fontSize: '0.8rem', marginTop: '10px' }}>?? {currentError}</p>}
           </div>
         </section>
 

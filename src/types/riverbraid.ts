@@ -1,7 +1,7 @@
-﻿export type StateLabel = 'Stationary' | 'Transitioning' | 'Degraded';
+export type StateLabel = 'Stationary' | 'Transitioning' | 'Degraded';
 
-export interface InvariantResult {
-    id: 'Coupling' | 'ScaleSeparation' | 'ThermodynamicMeaning' | 'FailClosed' | 'StationaryFloor';
+export interface RiverbraidInvariant {
+    id: string;
     passed: boolean;
     reason?: string;
 }
@@ -16,5 +16,5 @@ export interface StateSeal {
 export interface TshOutput {
     ok: boolean;
     seal: StateSeal | null;
-    failures: InvariantResult[];
+    failures: RiverbraidInvariant[];
 }
