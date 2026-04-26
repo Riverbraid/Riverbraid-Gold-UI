@@ -1,136 +1,109 @@
 [
     {
-        "Algorithm":  "SHA256",
         "Hash":  "4525870F3636EB1B6710E54EEB1DA681F6D52DF6B1F4E000A5E5B7DFA3E76A8C",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\.anchor"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "D50AB07E11FA4BF3B1C7C3312E1D7BAEAB56CCA756832CCF40476823AD2A38B7",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\.gitignore"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "F19395CAF80173FFBD41AB74F8EEF4FC26C042F84A937DE4A6286EC5C13AD401",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\eslint.config.js"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "B38E33DFE5C407E74EF22E4F7AD4E44C546233D7C2561A24172AF4A79BA4224F",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\index.html"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "60EE82071A413CBECE6E89C0F60124FB449EDF13D2A56000E955CC7F829845E2",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\package-lock.json"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "E4CEF1E07E21D8ABFB8265542D0450957887893493F0761478B1E083B828C1C0",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\package.json"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "9F58E016057B8F3AFBA610BEBAF37F9CCA63830C68AFCD852DFAAA17DAA85506",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\rb.ps1"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "311082852890BDE1B8E551EBC196CFE3F63CD671B8094446ACC5EA76A26F1506",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\rb.sh"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "6E351E5F4801A7BB4E4576E63EF16A91EB726BC2FA4D4A4A6778B4DD7828973F",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\README.md"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "4CB8452BBF5B3188E78650C0703F829BB98ABD7CF8FB11F44F9E2EB2796C33FB",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\riverbraid-manifest.json"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "61AB483A94A0556E57EA95CC7353BB07B9F3084C0691364070BBF853910646E8",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\tsconfig.app.json"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "AD28D132EE48D6E23917CF5827CACE785D0FC01A44CA68B0DDA51CC8C3FD3F52",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\tsconfig.json"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "E0F1936992F77A707102795E8EA311AE74CB54DE87B221BB32B44055AF66FF7E",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\tsconfig.node.json"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "EF98C60E13EA966B88BB57531F6BA09798A99A57D8CAA3E3AF05A572D3C37A60",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\verify.mjs"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "5CABB639B6B62E19064337ABC9F5B4FDA0F83E50A47396CA9A3BBA388ABFDD13",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\vite.config.ts"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "5D7B9E779482FD18B932959FA8E8CA715ED6E988EC3D169817E34FE6C9AA970D",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\.github\\workflows\\deploy.yml"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "61BC9A161DE58248288E6905425D7180F0624C2865007B97D763FDAC12043A66",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\public\\favicon.svg"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "7CA2D67C9C3AEBF50CDC8709EE8AACF8CDB8CC7EA6325EA94939CAEF5DA1C53D",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\public\\icons.svg"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "C2571CE7245629994B8ADC84F6C48E1920F047A4E7E29C89A4AEB51EEB1B5433",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\src\\App.css"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "8A32E9A97FB8A909806F24078A73138853B16D3276A1ADE50904C1BE05030FCB",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\src\\App.tsx"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "5FBFD1A31F47B772A2B90B54C4E8312E8D874AE7D994590A93C191CDE97873D0",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\src\\index.css"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "138BF3B31A2CD1A6B2804A5F706941D9243034C52AF497D42746F50F191CEB79",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\src\\main.tsx"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "881FFBCAAFC212E49ADDAD08846A5B82761355FA20624253AF3477BA33262C5C",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\src\\assets\\hero.png"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "35EF61ED53B323AE94A16A8EC659B3D0AF3880698791133F23B084085AB1C2E5",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\src\\assets\\react.svg"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "2F1F6C6F90A0EF7422CBB4CFAFCD8AD329C507A18AFDC34CC21FA72179B9C54A",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\src\\assets\\vite.svg"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "937454D0F4B0463379F6F23F64824641E58C1424E9921C5B896C72280E3280D9",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\src\\services\\bridge.ts"
     },
     {
-        "Algorithm":  "SHA256",
         "Hash":  "40378493BC1E513DDF0F3F85ED6099EFDFD3A5FB32988BAB5701B0FC742D77AE",
         "Path":  "C:\\Users\\theti\\riverbraid\\Riverbraid-Gold-UI\\src\\types\\riverbraid.ts"
     }

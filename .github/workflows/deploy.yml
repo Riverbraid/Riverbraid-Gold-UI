@@ -1,4 +1,4 @@
-﻿name: Deploy Riverbraid Gold
+name: Deploy Riverbraid Gold
 on:
   push:
     branches: [main]
@@ -34,3 +34,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
