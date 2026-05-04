@@ -1,4 +1,4 @@
-﻿import { TshOutput, InvariantResult, StateSeal } from '../types/riverbraid';
+import { TshOutput, InvariantResult, StateSeal } from '../types/riverbraid';
 
 export const computeHash = async (data: string): Promise<string> => {
     const encoder = new TextEncoder();

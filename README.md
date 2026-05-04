@@ -1,4 +1,13 @@
-﻿# Riverbraid Gold UI
+# Riverbraid-Gold-UI
+> **Status:** ROOT_AUDIT_VERIFIED (v1.5.0)
+> **Claim Boundary:** Declared Conditions Only[cite: 2]
+
+This repository is a verified node within the Riverbraid Constellation.
+It adheres to the Stationary State invariant and is audited against 
+the Riverbraid-Manifest-Gold authority gate.[cite: 1, 2]
+
+---
+# Riverbraid Gold UI
 Relational Integrity Monitor V1.1.0
 
 A high-fidelity interface for monitoring state invariants and cryptographic braiding. 
@@ -15,3 +24,4 @@ A high-fidelity interface for monitoring state invariants and cryptographic brai
 
 ## Architecture
 This UI mirrors the logic defined in the `riverbraid-wasm-bridge` Rust implementation.
+
