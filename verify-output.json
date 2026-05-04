@@ -1,0 +1,22 @@
+{
+  "repo": "Riverbraid-Gold-UI",
+  "ring": 2,
+  "class": "ui-runtime",
+  "status": "VERIFIED",
+  "verification_scope": "ring2-ui-runtime-anchor-and-file-surface",
+  "claim_boundary": "infrastructure-classification-only",
+  "expected_anchor": "STATIONARY_STATE_V2_20260425-092050",
+  "observed_anchor": "STATIONARY_STATE_V2_20260425-092050",
+  "anchor_matches": true,
+  "structural_artifact_present": true,
+  "required_files": [
+    ".anchor",
+    "AUTHORITY.md",
+    "RING.md",
+    "package.json",
+    "verify.mjs"
+  ],
+  "missing_files": [],
+  "failure_codes": [],
+  "digest": "sha256:7ad5850121c4ed4b8a1f0c5d4c423db630c7738a46799803fba939ce888ed5af"
+}
