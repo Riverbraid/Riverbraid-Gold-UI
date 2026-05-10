@@ -1,0 +1,1 @@
+{"schema":"riverbraid.protocol.steps","version":"1.0.0","canonical_input":{"repo":"Riverbraid-Gold-UI","ring":2,"role":"ui-runtime-surface","routes":[{"id":"overview","panel":"constellation","readonly":true},{"id":"audit","panel":"audit-output","readonly":true}]}}

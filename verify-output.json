@@ -1,22 +1,23 @@
 {
+  "schema": "riverbraid.infrastructure.verify.output",
+  "version": "1.0.0",
   "repo": "Riverbraid-Gold-UI",
   "ring": 2,
-  "class": "ui-runtime",
+  "role": "ui-runtime-surface",
+  "invariant": "UI_ROUTE_STATIONARY",
+  "contract_type": "ui-route-contract",
   "status": "VERIFIED",
-  "verification_scope": "ring2-ui-runtime-anchor-and-file-surface",
-  "claim_boundary": "infrastructure-classification-only",
-  "expected_anchor": "STATIONARY_STATE_V2_20260425-092050",
-  "observed_anchor": "STATIONARY_STATE_V2_20260425-092050",
-  "anchor_matches": true,
-  "structural_artifact_present": true,
+  "canonical_signal": "gold-ui:ROUTES_STATIONARY",
+  "canonical_reason": "Match",
+  "digest": "sha256:5a7431c6fa5befa55f22cafe53b5af144ac3afec0c279b539fc41c776996834c",
   "required_files": [
-    ".anchor",
-    "AUTHORITY.md",
-    "RING.md",
     "package.json",
-    "verify.mjs"
+    "index.js",
+    "verify.mjs",
+    "protocol.steps",
+    "AUTHORITY.md",
+    "RING.md"
   ],
   "missing_files": [],
-  "failure_codes": [],
-  "digest": "sha256:8b35193b16fa641c7fec513c52843c82a616332887c1c9047806a769bc57359d"
+  "failure_codes": []
 }
